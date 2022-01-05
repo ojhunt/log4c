@@ -1,6 +1,8 @@
 # log4c
 A simple logging API for macOS
 
+Pronouned Log Force.
+
 This project is to provide a much simpler way to log messages
 to the macOS system log rather than using the annoyingly verbose
 os_log APIs.
